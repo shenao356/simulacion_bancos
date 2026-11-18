@@ -1,0 +1,5 @@
+﻿Tipo de Usuario,Total Usuarios (10 Réplicas),Promedio por Réplica (3 Cajeros),Desv. Estándar entre Réplicas,Promedio por Cajero por Réplica,Porcentaje Empírico (%),Porcentaje Teórico (%)
+Rápido,415,41.5,6.687467549246293,13.833333333333334,20.564915758176415,19.1
+Normal,631,63.1,9.982762921934766,21.033333333333335,31.268582755203173,34.0
+Lento,438,43.8,6.545566777937908,14.6,21.704658077304263,20.9
+Muy lento,534,53.4,4.835057163858332,17.8,26.461843409316156,26.0
